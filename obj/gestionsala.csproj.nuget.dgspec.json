@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\salacine\\gestionsala\\gestionsala.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Downloads\\Proyecto de Catedra(1)\\gestionsala\\gestionsala.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\salacine\\gestionsala\\gestionsala.csproj": {
+    "C:\\Users\\MINEDUCYT\\Downloads\\Proyecto de Catedra(1)\\gestionsala\\gestionsala.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\salacine\\gestionsala\\gestionsala.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\Proyecto de Catedra(1)\\gestionsala\\gestionsala.csproj",
         "projectName": "gestionsala",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\salacine\\gestionsala\\gestionsala.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Proyecto de Catedra(1)\\gestionsala\\gestionsala.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\salacine\\gestionsala\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\Proyecto de Catedra(1)\\gestionsala\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"

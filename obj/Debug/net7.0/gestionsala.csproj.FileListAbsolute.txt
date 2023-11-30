@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\bin\Debug\net7.0\gestionsala.exe
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\bin\Debug\net7.0\gestionsala.deps.json
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\bin\Debug\net7.0\gestionsala.runtimeconfig.json
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\bin\Debug\net7.0\gestionsala.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\bin\Debug\net7.0\gestionsala.pdb
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\refint\gestionsala.dll
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.pdb
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\gestionsala.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Downloads\Proyecto de Catedra(1)\gestionsala\obj\Debug\net7.0\ref\gestionsala.dll
