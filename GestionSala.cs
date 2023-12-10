@@ -32,7 +32,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
                 {
                     switch (opciones)
                     {
-
+                        //YOSSELYN//
                         case 1:
                             do
                             {
@@ -113,9 +113,11 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
                             } while (opciones != 3);
                             break;
-                       
+                        //YOSSELYN//
 
 
+
+                        /////////////////// JUDITH ////////////////////////////
                         case 2:
                             do
                             {
@@ -194,8 +196,10 @@ namespace MyApp// Note: actual namespace depends on the project name.
                             } while (opciones != 3);
                             break;
 
-                    
+                        ///////////////////////////// JUDITH ///////////////////////////////////
 
+
+                        //-------------------------------YAMILET--------------------------------//
                         case 3:
                             do
                             {
@@ -287,6 +291,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
             } while (opciones != 4);
         }
         
+        //----------------------------------------YAMILETH--------------------------------------//
 
         static void SeleccionarFechaYHorario(string pelicula, int asientos, double total)
         {

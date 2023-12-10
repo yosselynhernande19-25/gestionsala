@@ -40,3 +40,17 @@ E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\refint\
 E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.pdb
 E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.genruntimeconfig.cache
 E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\ref\gestionsala.dll
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\bin\Debug\net7.0\gestionsala.exe
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\bin\Debug\net7.0\gestionsala.deps.json
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\bin\Debug\net7.0\gestionsala.runtimeconfig.json
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\bin\Debug\net7.0\gestionsala.dll
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\bin\Debug\net7.0\gestionsala.pdb
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.AssemblyInfoInputs.cache
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.AssemblyInfo.cs
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.csproj.CoreCompileInputs.cache
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.dll
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\refint\gestionsala.dll
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.pdb
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\gestionsala.genruntimeconfig.cache
+D:\Ciclo ll\Progamación Estructurada\PROYECTO\gestionsala\obj\Debug\net7.0\ref\gestionsala.dll
