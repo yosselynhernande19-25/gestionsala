@@ -1,2 +1,0 @@
-# gestionsala
-grupo 

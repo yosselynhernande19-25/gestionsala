@@ -26,3 +26,17 @@ E:\Programación de Computadoras\salacine\gestionsala-3\obj\Debug\net7.0\refint\
 E:\Programación de Computadoras\salacine\gestionsala-3\obj\Debug\net7.0\gestionsala.pdb
 E:\Programación de Computadoras\salacine\gestionsala-3\obj\Debug\net7.0\gestionsala.genruntimeconfig.cache
 E:\Programación de Computadoras\salacine\gestionsala-3\obj\Debug\net7.0\ref\gestionsala.dll
+E:\Programación de Computadoras\salacine\gestionsala-4\bin\Debug\net7.0\gestionsala.exe
+E:\Programación de Computadoras\salacine\gestionsala-4\bin\Debug\net7.0\gestionsala.deps.json
+E:\Programación de Computadoras\salacine\gestionsala-4\bin\Debug\net7.0\gestionsala.runtimeconfig.json
+E:\Programación de Computadoras\salacine\gestionsala-4\bin\Debug\net7.0\gestionsala.dll
+E:\Programación de Computadoras\salacine\gestionsala-4\bin\Debug\net7.0\gestionsala.pdb
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.AssemblyInfoInputs.cache
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.AssemblyInfo.cs
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.csproj.CoreCompileInputs.cache
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.dll
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\refint\gestionsala.dll
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.pdb
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\gestionsala.genruntimeconfig.cache
+E:\Programación de Computadoras\salacine\gestionsala-4\obj\Debug\net7.0\ref\gestionsala.dll

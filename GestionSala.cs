@@ -34,36 +34,20 @@ namespace MyApp// Note: actual namespace depends on the project name.
                     {
 
                         case 1:
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine("\n-----------ROMANCE----------");
-                            Console.ForegroundColor = ConsoleColor.Blue;
-                            Console.WriteLine("1. Culpa mía---------------------$5");
-                            Console.WriteLine("2. Una chica del siglo xx--------$4.50");
-                            Console.WriteLine("3. Yo antes de ti----------------$5.50");
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.Write("¿Que pelicula deseas ver? ");
-                            Console.ResetColor();
-                            break;
-
-                        
-                        case 2:
-                            break;
-
-                        
-                        case 3:
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine("\n-----------COMEDIA----------");
-                            Console.ForegroundColor = ConsoleColor.Blue;
-                            Console.WriteLine("1. Son como niños---------------$3.75");
-                            Console.WriteLine("2. La máscara-------------------$2.50");
-                            Console.WriteLine("3. Stuart Little----------------$4.50");
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.Write("¿Que pelicula deseas ver? ");
-                            Console.ResetColor();
-
+                             Console.ForegroundColor = ConsoleColor.Green;
+                                Console.WriteLine("\n-----------ROMANCE----------");
+                                Console.ForegroundColor = ConsoleColor.Blue;
+                                Console.WriteLine("1. Culpa mía---------------------$5");
+                                Console.WriteLine("2. Una chica del siglo xx--------$4.50");
+                                Console.WriteLine("3. Yo antes de ti----------------$5.50");
+                                Console.ForegroundColor = ConsoleColor.Green;
+                                Console.Write("¿Que pelicula deseas ver? ");
+                                Console.ResetColor();
+                            
+                                
                             do
                             {
-                                int pelicula;
+                                 int pelicula;
                                 if (int.TryParse(Console.ReadLine(), out pelicula))
                                 {
                                     switch (pelicula)
@@ -129,6 +113,27 @@ namespace MyApp// Note: actual namespace depends on the project name.
                                 break;
 
                             } while (opciones != 3);
+                            break;
+                        
+
+                            
+
+                        
+                        case 2:
+                            break;
+
+                        
+                        case 3:
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine("\n-----------COMEDIA----------");
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.WriteLine("1. Son como niños---------------$3.75");
+                            Console.WriteLine("2. La máscara-------------------$2.50");
+                            Console.WriteLine("3. Stuart Little----------------$4.50");
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.Write("¿Que pelicula deseas ver? ");
+                            Console.ResetColor();
+                            
 
                             do
                             {
@@ -140,20 +145,20 @@ namespace MyApp// Note: actual namespace depends on the project name.
                                     {
                                         case 1:
                                             Console.ForegroundColor = ConsoleColor.Blue;
-                                            Console.WriteLine("\n-------Culpa mía--------");
+                                            Console.WriteLine("\n--------Son como niños--------");
                                             Console.WriteLine("--------Asientos------");
                                             Console.ForegroundColor = ConsoleColor.Green;
                                             Console.Write("¿Cuantos asientos nesesita? ");
                                             int asiento1 = Convert.ToInt32(Console.ReadLine());
-                                            double total1 = (asiento1 * 5);
+                                            double total1 = (asiento1 * 3.75);
                                             Console.ForegroundColor = ConsoleColor.Magenta;
-                                            Console.WriteLine("\nPelicula a ver ..................Culpa mía");
+                                            Console.WriteLine("\nPelicula a ver ..................Son como niños");
                                             Console.WriteLine("Asientos reservados ............." + asiento1);
                                             Console.WriteLine("Total a pagar ...................$" + total1);
                                             Console.ResetColor();
-                                            SeleccionarFechaYHorario("Culpa_mia", asiento1, total1);
+                                            SeleccionarFechaYHorario("Son como niños", asiento1, total1);
                                             break;
-
+                                            
                                         case 2:
                                             Console.ForegroundColor = ConsoleColor.Blue;
                                             Console.WriteLine("\n--------La Máscara--------");
