@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programación de Computadoras\\salacine\\gestionsala-4\\gestionsala.csproj",
+      "projectUniqueName": "D:\\Ciclo ll\\Progamación Estructurada\\PROYECTO\\gestionsala\\gestionsala.csproj",
       "projectName": "gestionsala",
-      "projectPath": "E:\\Programación de Computadoras\\salacine\\gestionsala-4\\gestionsala.csproj",
+      "projectPath": "D:\\Ciclo ll\\Progamación Estructurada\\PROYECTO\\gestionsala\\gestionsala.csproj",
       "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-      "outputPath": "E:\\Programación de Computadoras\\salacine\\gestionsala-4\\obj\\",
+      "outputPath": "D:\\Ciclo ll\\Progamación Estructurada\\PROYECTO\\gestionsala\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
