@@ -34,20 +34,15 @@ namespace MyApp// Note: actual namespace depends on the project name.
                     {
 
                         case 1:
-
-                            Console.ForegroundColor = ConsoleColor.Blue;
-                            Console.WriteLine("\n-------Culpa mía--------");
-                            Console.WriteLine("--------Asientos------");
                             Console.ForegroundColor = ConsoleColor.Green;
-                            Console.Write("¿Cuantos asientos nesesita? ");
-                            int asiento1 = Convert.ToInt32(Console.ReadLine());
-                            double total1 = (asiento1 * 5);
-                            Console.ForegroundColor = ConsoleColor.Magenta;
-                            Console.WriteLine("\nPelicula a ver ..................Culpa mía");
-                            Console.WriteLine("Asientos reservados ............." + asiento1);
-                            Console.WriteLine("Total a pagar ...................$" + total1);
+                            Console.WriteLine("\n-----------ROMANCE----------");
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.WriteLine("1. Culpa mía---------------------$5");
+                            Console.WriteLine("2. Una chica del siglo xx--------$4.50");
+                            Console.WriteLine("3. Yo antes de ti----------------$5.50");
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.Write("¿Que pelicula deseas ver? ");
                             Console.ResetColor();
-                            SeleccionarFechaYHorario("Culpa_mia", asiento1, total1);
                             break;
 
                         
@@ -68,6 +63,75 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
                             do
                             {
+                                int pelicula;
+                                if (int.TryParse(Console.ReadLine(), out pelicula))
+                                {
+                                    switch (pelicula)
+                                    {
+                                        case 1:
+                                            Console.ForegroundColor = ConsoleColor.Blue;
+                                            Console.WriteLine("\n-------Culpa mía--------");
+                                            Console.WriteLine("--------Asientos------");
+                                            Console.ForegroundColor = ConsoleColor.Green;
+                                            Console.Write("¿Cuantos asientos nesesita? ");
+                                            int asiento1 = Convert.ToInt32(Console.ReadLine());
+                                            double total1 = (asiento1 * 5);
+                                            Console.ForegroundColor = ConsoleColor.Magenta;
+                                            Console.WriteLine("\nPelicula a ver ..................Culpa mía");
+                                            Console.WriteLine("Asientos reservados ............." + asiento1);
+                                            Console.WriteLine("Total a pagar ...................$" + total1);
+                                            Console.ResetColor();
+                                            SeleccionarFechaYHorario("Culpa_mia", asiento1, total1);
+                                            break;
+
+                                        case 2:
+                                            Console.ForegroundColor = ConsoleColor.Blue;
+                                            Console.WriteLine("\n--------Una chica del siglo XX--------");
+                                            Console.WriteLine("--------Asientos------");
+                                            Console.ForegroundColor = ConsoleColor.Green;
+                                            Console.Write("¿Cuantos asientos nesesita? ");
+                                            int asiento2 = Convert.ToInt32(Console.ReadLine());
+                                            double total2 = (asiento2 * 4.50);
+                                            Console.ForegroundColor = ConsoleColor.Magenta;
+                                            Console.WriteLine("\nPelicula a ver ..................Una chica del siglo xx");
+                                            Console.WriteLine("Asientos reservados ............." + asiento2);
+                                            Console.WriteLine("Total a pagar ...................$" + total2);
+                                            Console.ResetColor();
+                                            SeleccionarFechaYHorario("Una_chica_del_siglo_xx", asiento2, total2);
+                                            break;
+
+                                        case 3:
+                                            Console.ForegroundColor = ConsoleColor.Blue;
+                                            Console.WriteLine("\n--------Yo antes de ti--------");
+                                            Console.WriteLine("--------Asientos------");
+                                            Console.ForegroundColor = ConsoleColor.Green;
+                                            Console.Write("¿Cuantos asientos nesesita? ");
+                                            int asiento3 = Convert.ToInt32(Console.ReadLine());
+                                            double total3 = (asiento3 * 5.50);
+                                            Console.ForegroundColor = ConsoleColor.Magenta;
+                                            Console.WriteLine("\nPelicula a ver ..................Yo antes de ti");
+                                            Console.WriteLine("Asientos reservados ............." + asiento3);
+                                            Console.WriteLine("Total a pagar ...................$" + total3);
+                                            Console.ResetColor();
+                                            SeleccionarFechaYHorario("Yo_antes_de_ti", asiento3, total3);
+                                            break;
+
+                                        default:
+                                            Console.WriteLine("Opción no válida");
+                                            break;
+                                    }
+
+                                }
+                                else
+                                {
+                                    Console.WriteLine("\nEntrada no válida.");
+                                }
+                                break;
+
+                            } while (opciones != 3);
+
+                            do
+                            {
 
                                 int pelicula;
                                 if (int.TryParse(Console.ReadLine(), out pelicula))
@@ -75,6 +139,19 @@ namespace MyApp// Note: actual namespace depends on the project name.
                                     switch (pelicula)
                                     {
                                         case 1:
+                                            Console.ForegroundColor = ConsoleColor.Blue;
+                                            Console.WriteLine("\n-------Culpa mía--------");
+                                            Console.WriteLine("--------Asientos------");
+                                            Console.ForegroundColor = ConsoleColor.Green;
+                                            Console.Write("¿Cuantos asientos nesesita? ");
+                                            int asiento1 = Convert.ToInt32(Console.ReadLine());
+                                            double total1 = (asiento1 * 5);
+                                            Console.ForegroundColor = ConsoleColor.Magenta;
+                                            Console.WriteLine("\nPelicula a ver ..................Culpa mía");
+                                            Console.WriteLine("Asientos reservados ............." + asiento1);
+                                            Console.WriteLine("Total a pagar ...................$" + total1);
+                                            Console.ResetColor();
+                                            SeleccionarFechaYHorario("Culpa_mia", asiento1, total1);
                                             break;
 
                                         case 2:
@@ -124,6 +201,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
                             } while (opciones != 3);
                             break;
+
+                            
                     }
                 }
                 else
@@ -132,6 +211,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
                 }
             } while (opciones != 4);
         }
+
+        
         
         /////////////////////////////////////////////////////////////////  FIN DE MAIN   //////////////////////////////////////////////////////////////////
 
